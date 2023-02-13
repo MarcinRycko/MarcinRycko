@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
   
 
 ### <div align="center">I'm Marcin, Typescript React front-end developer 👨‍💻 🚀 </div>  
